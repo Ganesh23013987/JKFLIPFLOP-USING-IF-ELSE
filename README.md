@@ -52,7 +52,7 @@ Developed by: GANESH.D
 
 RegisterNumber: 212223240035
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
+Program for flipflops and verify its truth table in quartus using Verilog programming. 
 ```
 module jk_ff(q,qb,j,k,clock,reset);
 input j,k,clock, reset;
@@ -82,7 +82,7 @@ begin
 	end
 endmodule
 ```
-*/
+
 
 **RTL LOGIC FOR FLIPFLOPS**
 <img width="950" alt="RTL jk_flipflop" src="https://github.com/Ganesh23013987/JKFLIPFLOP-USING-IF-ELSE/assets/147473768/1dab9a3e-a408-41ac-84d3-92f604bb052d">
